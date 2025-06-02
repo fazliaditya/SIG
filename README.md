@@ -1,4 +1,4 @@
-# 🌍 PTRP_UNDIP – Peta Rencana Kawasan Strategis Ekonomi Argoplytan Kabupaten Pekalongan
+# 🌍 PTRP_UNDIP – Peta Agriculture Kabupaten Pekalongan
 
 Aplikasi ini dikembangkan untuk Lomba Web Technology OLIVIA X UB 2025 dengan tema **“Sustainable Digital Solutions: Enhancing Innovation through Web Technology”**. Aplikasi ini merupakan WebGIS interaktif yang menyajikan data:
 - Rencana kawasan strategis ekonomi argoplytan
