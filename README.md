@@ -48,4 +48,4 @@ di wilayah Kabupaten Pekalongan.
 - 👤 [Fazli Aditya Nugraha]
 - 👤 [Zakiyya Aqila Aliaziz]
 - 👤 [Syabila Hasna Maulida]
-- 👨‍🏫 Dosen Pembimbing: [Martanti Aji Pangestu, S.T,M.T
+- 👨‍🏫 Dosen Pembimbing: [Martanti Aji Pangestu, S.T,M.T]
